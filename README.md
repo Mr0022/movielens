@@ -1,2 +1,2 @@
 # movielens
-implementing clustring methods to movielens dataset
+implementing clustering methods to movielens dataset
